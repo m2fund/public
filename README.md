@@ -3,11 +3,7 @@ Normally all our corporative repos are private. But from time to time we need so
 
 For example `@tonconnect/ui-react` npm library expects us to provide `tonconnect-manifest.json` public url for `TonConnectUIProvider`.
 
-### Caution
-
-Please do not store any sensitive content within this repo.
-
-### Public URLs
+## Public URLs
 In order to get a file public link follow these steps:
 
 1. Click at desired file
@@ -20,3 +16,7 @@ In order to get a file public link follow these steps:
 <img width="669" alt="image" src="https://github.com/m2fund/public/assets/9373410/6bf36175-5a85-4887-9062-f24d23ffe1af">
 
 4. Enjoy.
+
+## Caution
+
+Please do not store any sensitive content within this repo.
