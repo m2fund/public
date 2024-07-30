@@ -1,9 +1,17 @@
-# M2fund public assets
+### Welcome, please take a look at m2fund projects list below.
+
+# Our projects
+
+1. [m2fund](m2fund/m2fund%20pitch%20deck.pdf) - web3 telegram app for collective investments in UAE real estate
+2. [Gu$$i](gussi-game/README.md) - endless coin runner game on TON
+
+# Developer notes
+
+## Public assets
 Normally all our corporative repos are private. But from time to time we need some assets to be public (meaning some external service could have access to it).
 
 For example `@tonconnect/ui-react` npm library expects us to provide `tonconnect-manifest.json` public url for `TonConnectUIProvider`.
 
-## Public URLs
 In order to get a file public link follow these steps:
 
 1. Click at desired file
